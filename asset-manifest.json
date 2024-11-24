@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdfutilitys/static/css/main.b3da01e5.css",
+    "main.js": "/pdfutilitys/static/js/main.bfc07462.js",
+    "index.html": "/pdfutilitys/index.html",
+    "main.b3da01e5.css.map": "/pdfutilitys/static/css/main.b3da01e5.css.map",
+    "main.bfc07462.js.map": "/pdfutilitys/static/js/main.bfc07462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3da01e5.css",
+    "static/js/main.bfc07462.js"
+  ]
+}
