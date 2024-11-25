@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdfutilitys.git/static/css/main.b3da01e5.css",
+    "main.js": "/pdfutilitys.git/static/js/main.bfc07462.js",
+    "index.html": "/pdfutilitys.git/index.html",
+    "main.b3da01e5.css.map": "/pdfutilitys.git/static/css/main.b3da01e5.css.map",
+    "main.bfc07462.js.map": "/pdfutilitys.git/static/js/main.bfc07462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3da01e5.css",
+    "static/js/main.bfc07462.js"
+  ]
+}
